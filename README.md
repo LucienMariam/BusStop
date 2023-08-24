@@ -1,5 +1,5 @@
 # BusStop
-My test task from ОКБТСП company.
+My test task from a company.
 
 Despite this task is designed for pure C++ algorithmic practicing, I was told to represent my final result in an Object-Oriented Programming way as much as possible.
 
